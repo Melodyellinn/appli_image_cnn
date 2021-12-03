@@ -1,2 +1,3 @@
-cnn_appli_image/.csv
-cnn_appli_image/.h5
+cnn_appli_image/*
+.csv
+.h5
